@@ -1,0 +1,17 @@
+{
+    "client": {
+        "activity": "",
+        "name": ""
+    },
+
+    
+    "BDD": {
+        "host": "", 
+        "password": "",
+        "user": "",
+        "database": ""
+
+    },
+
+    "token": ""
+}

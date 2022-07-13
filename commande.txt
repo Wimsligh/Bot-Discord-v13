@@ -1,0 +1,17 @@
+!ping
+!config (commande configurer le ticket)
+!ticket 
+!add (ajouter un membre dans le ticket)
+!rename(renomé le channels dans le ticket)
+!delete(supprimer le channels dans le ticket)
+!joke (jeux de joke)
+!steam-game gta5 (connaitre les info du jeux prix avis etc)
+!config .... (changer prefix , changer emplacements ticket)
+!banner(voir la bannière de l'utilisateur)
+!perms(peut voir les permissions d'un utilisateur)
+!clear (supprime des messages dans le tchat de 0-100)
+!meteo (plus le nom de la ville)
+!dm (avec le message) (qui permet de dm avec le bot quelqu'un)
+!lock (commande pour vérouiller un channels)
+!serverinfo(connaitre les infos du serveur)
+!warn
